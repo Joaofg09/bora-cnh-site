@@ -1,5 +1,5 @@
 {
-  "versao": 2,
+  "versao": 3,
   "itens": [
     {
       "titulo": "Código de Trânsito Brasileiro (livro)",
@@ -26,6 +26,12 @@
       "categoria": "Material de estudo"
     },
     {
+      "titulo": "Caderneta de bolso",
+      "descricao": "Para levar no bolso as placas e regras que você mais confunde.",
+      "url": "https://meli.la/22SayVS",
+      "categoria": "Material de estudo"
+    },
+    {
       "titulo": "Kit de primeiros socorros para carro",
       "descricao": "Itens básicos para ter no carro depois de habilitado.",
       "url": "https://meli.la/1YGehcn",
@@ -35,6 +41,18 @@
       "titulo": "Suporte de celular para carro",
       "descricao": "Use o GPS sem tirar a mão do volante (e sem levar multa).",
       "url": "https://meli.la/11jXjKD",
+      "categoria": "Para o carro"
+    },
+    {
+      "titulo": "Carregador veicular USB",
+      "descricao": "Celular carregado para usar o GPS nas aulas práticas e no dia a dia.",
+      "url": "https://meli.la/2DV8DaC",
+      "categoria": "Para o carro"
+    },
+    {
+      "titulo": "Capa porta-documentos para CNH",
+      "descricao": "Para guardar a CNH e o documento do carro protegidos.",
+      "url": "https://meli.la/29HGP5o",
       "categoria": "Para o carro"
     }
   ]
